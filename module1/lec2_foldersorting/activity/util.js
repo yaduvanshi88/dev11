@@ -1,0 +1,9 @@
+module.exports={
+    "documents":["doc","pdf","txt"],
+    "images":["img","jpg","gif","png"],
+    "audio":["mp3"],
+    "video":["mkv","mp4"],
+    "applications":["exe"],
+    "torrents":[".torrent"],
+    "dillfiles":["dll"]
+}
