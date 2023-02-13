@@ -1,7 +1,6 @@
 {
   "name": "dev_pp_11",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12"
-  }
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^19.3.0",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaduvanshi88/dev11.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yaduvanshi88/dev11/issues"
+  },
+  "homepage": "https://github.com/yaduvanshi88/dev11#readme",
+  "description": ""
 }
